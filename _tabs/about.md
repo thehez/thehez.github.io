@@ -6,8 +6,6 @@ order: 4
 
 # Hez's HackHarbor Discoveries
 
-##  About Me 
-
 Hello and welcome to my page! 
 
 My name is Christian - Aka theHez - a seasoned security engineer and penetration tester deeply committed to the domains of security and cloud technology. My extensive cyber security journey has taken me through several environments including sensitive projects witin the public and private sectors. From military ops to fintech fun, where security is not a dirty word even if 'crevice' is. (points for references!)
