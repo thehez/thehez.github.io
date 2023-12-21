@@ -14,9 +14,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: RootHez Realms # the main title
+title: Hez's HackHarbor Discoveries # the main title
 
-tagline: Adventures in Penetration Testing # it will display as the sub-title
+tagline: Adventures in a Sea of Security & Penetration Testing # it will display as the sub-title
 
 description: >-
   Random Ramblings in the world of cybersecurity. Though mainly focused on cloud-native enviornments this page aims to offer practical tips and advice on penetration testing, security engineering and more.
