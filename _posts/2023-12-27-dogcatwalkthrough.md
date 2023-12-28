@@ -1,6 +1,6 @@
 ---
 title: Dogcat Walkthrough
-date: 2023-12-27 10:27:31
+date: 2023-12-27 10:27:31 +0000
 categories: [CTFs, Walkthrough]
 tags: [docker, container] 
 ---
