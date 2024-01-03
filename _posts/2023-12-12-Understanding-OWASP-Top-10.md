@@ -31,15 +31,21 @@ However, in this 2 part series we are going to focus on argubly their most famou
 ### Why OWASP Top 10?
 ![Why is OWASP](/assets/img/OWASP-top-10/Why-is-OWASP.png){: .right }
 
-The OWASP Top 10 stands as a fundamental resource embraced by developers, penetration testers, DevSecOps practitioners, security engineers, and all stakeholders engaged in the Software Development Life Cycle (SDLC) of applications. Serving as a widely acknowledged guide in the cybersecurity community, this document sheds light on the most critical, pervasive, or commonly exploited security risks and vulnerabilities inherent in web applications.
+The OWASP Top 10 stands as a fundamental resource embraced by developers, penetration testers, DevSecOps practitioners, security engineers, and all stakeholders engaged in the Software Development Life Cycle (SDLC) of applications.
 
-Collaboratively curated with distinguished experts in the cybersecurity realm, the guidance offered by OWASP is a reliable roadmap for crafting a comprehensive security strategy during the development of websites and apps. While typically receiving updates every three years, the OWASP Top 10 has held steady since 2021. Anticipating an update in 2024 or 2025, the present reliance on the 2021 list underscores the enduring relevance of the identified vulnerabilities. These threats persistently loom over web development and security, requiring the ongoing vigilance and informed awareness of professionals within the dynamic landscape of web application security.
+Serving as a widely acknowledged guide in the cybersecurity community, this document sheds light on the most critical, pervasive, or commonly exploited security risks and vulnerabilities inherent in web applications.
+
+Collaboratively curated with distinguished experts in the cybersecurity realm, the guidance offered by OWASP is a reliable roadmap for crafting a comprehensive security strategy during the development of websites and apps. While typically receiving updates every couple of years, the OWASP Top 10 has held steady since 2021. 
+
+Anticipating an update in 2024 or 2025, the present reliance on the 2021 list underscores the enduring relevance of the identified vulnerabilities. These threats persistently loom over web development and security, requiring the ongoing vigilance and informed awareness of professionals within the dynamic landscape of web application security.
 
 ### The Top 10
 
 #### A10:2021 – Server-Side Request Forgery (SSRF)
 
 Server-Side Request Forgery (SSRF) was a new addition to the top 10 in 2021. According to OWASP, the data shows a low incidence rate but an increased alarm from security members within the field. This is likely due to the increased impact of succesful SSRF attacks within cloud hosted environments due to rapid migrations of applications to the public cloud. One just has to look to the infamous Capital One attack which leveraged an SSRF exploit against AWS infrastructure, to see how dangerous this vulnerabilitiy can be. 
+
+So, what is it?
 
 SSRF is a type of security vulnerability that occurs when an attacker can influence or manipulate the requests made by a web application to other internal resources or external services. In SSRF attacks, the attacker typically tricks the server into making requests to unintended destinations, often causing unauthorized access to internal systems or external services. 
 
