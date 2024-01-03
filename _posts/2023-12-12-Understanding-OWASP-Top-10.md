@@ -6,7 +6,7 @@ categories: [Blog, Security]
 tags: [pentesting, appsec, security] 
 ---
 
-## Unwrapping the OWASP Top-10 : Why the Classics Still Matter
+## Unwrapping the OWASP Top 10 : Why the Classics Still Matter
 
 The OWASP Top 10 is a cybersecurity checklist that identifies the most critical web application security risks. Despite the influx of flashy new threats in the wild, the Top 10 remains relevant because it focuses on widespread impactful vulnerabilities that consistently jeopardize web apps. 
 
@@ -22,7 +22,7 @@ In this 2 part series we are going to focus on argubly their most famous project
 ### Why OWASP Top 10?
 
 this is a test 
-![Why is OWASP](../assets/img/OWASP-top-10/Why-is-OWASP.png){: .left }
+![Why is OWASP](/assets/img/OWASP-top-10/Why-is-OWASP.png){: .left }
 
 
 ### Further Reading
